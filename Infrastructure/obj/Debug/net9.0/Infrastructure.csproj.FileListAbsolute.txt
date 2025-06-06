@@ -1,0 +1,17 @@
+/home/camper/Niconi/signal/Infrastructure/bin/Debug/net9.0/Infrastructure.deps.json
+/home/camper/Niconi/signal/Infrastructure/bin/Debug/net9.0/Infrastructure.dll
+/home/camper/Niconi/signal/Infrastructure/bin/Debug/net9.0/Infrastructure.pdb
+/home/camper/Niconi/signal/Infrastructure/bin/Debug/net9.0/Application.dll
+/home/camper/Niconi/signal/Infrastructure/bin/Debug/net9.0/Domain.dll
+/home/camper/Niconi/signal/Infrastructure/bin/Debug/net9.0/Domain.pdb
+/home/camper/Niconi/signal/Infrastructure/bin/Debug/net9.0/Application.pdb
+/home/camper/Niconi/signal/Infrastructure/obj/Debug/net9.0/Infrastructure.csproj.AssemblyReference.cache
+/home/camper/Niconi/signal/Infrastructure/obj/Debug/net9.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/camper/Niconi/signal/Infrastructure/obj/Debug/net9.0/Infrastructure.AssemblyInfoInputs.cache
+/home/camper/Niconi/signal/Infrastructure/obj/Debug/net9.0/Infrastructure.AssemblyInfo.cs
+/home/camper/Niconi/signal/Infrastructure/obj/Debug/net9.0/Infrastructure.csproj.CoreCompileInputs.cache
+/home/camper/Niconi/signal/Infrastructure/obj/Debug/net9.0/Infrastr.15EFFBFE.Up2Date
+/home/camper/Niconi/signal/Infrastructure/obj/Debug/net9.0/Infrastructure.dll
+/home/camper/Niconi/signal/Infrastructure/obj/Debug/net9.0/refint/Infrastructure.dll
+/home/camper/Niconi/signal/Infrastructure/obj/Debug/net9.0/Infrastructure.pdb
+/home/camper/Niconi/signal/Infrastructure/obj/Debug/net9.0/ref/Infrastructure.dll

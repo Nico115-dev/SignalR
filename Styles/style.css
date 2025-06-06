@@ -1,0 +1,56 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f5f9;
+    padding: 20px;
+}
+
+h1 {
+    color: #1e3a8a;
+}
+
+#chatBox {
+    background-color: white;
+    padding: 20px;
+    border-radius: 12px;
+    max-width: 600px;
+    margin: auto;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+input {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 8px;
+    border: 1px solid #cbd5e1;
+    width: calc(100% - 22px);
+    box-sizing: border-box;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #1d4ed8;
+}
+
+#messagesList {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+#messagesList li {
+    padding: 10px;
+    background-color: #e2e8f0;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+

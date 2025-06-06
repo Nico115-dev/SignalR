@@ -1,0 +1,11 @@
+/home/camper/Niconi/signal/Domain/bin/Debug/net9.0/Domain.deps.json
+/home/camper/Niconi/signal/Domain/bin/Debug/net9.0/Domain.dll
+/home/camper/Niconi/signal/Domain/bin/Debug/net9.0/Domain.pdb
+/home/camper/Niconi/signal/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/camper/Niconi/signal/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/home/camper/Niconi/signal/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/home/camper/Niconi/signal/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/home/camper/Niconi/signal/Domain/obj/Debug/net9.0/Domain.dll
+/home/camper/Niconi/signal/Domain/obj/Debug/net9.0/refint/Domain.dll
+/home/camper/Niconi/signal/Domain/obj/Debug/net9.0/Domain.pdb
+/home/camper/Niconi/signal/Domain/obj/Debug/net9.0/ref/Domain.dll
